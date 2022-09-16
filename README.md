@@ -2,7 +2,7 @@
 ##  Simple web server
 
        IntroCom - Austral - 2022 - EAM
-       Simple Web Server
+       ESP32 Simple Web Server
 
 
 
