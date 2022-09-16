@@ -4,6 +4,8 @@
        IntroCom - Austral - 2022 - EAM
        ESP32 Simple Web Server
 
+       See doc/README.md for instructions
+
 
 
 
